@@ -59,6 +59,8 @@
     <string name="drinkometer">buvez compteur</string> 
     <string name="notConnectedLabel">Non connecté</string> 
     <string name="FindPLacesButtonString">Nearby Places</string>  
+    
+     <string name="pref_actions_default">true</string>  
    
     
     <!-- Layout Screen Text for Taxi Magic Screen --> 

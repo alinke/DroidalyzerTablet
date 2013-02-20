@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
  <!-- ENGLISH -->
 <resources>
-    <string name="app_name">Droidalyzer</string>   
+    <string name="app_name">Droidalyzer Tablet</string>   
     <string name="analog_label">Alcohol Sensor:</string>
     <string name="detected_label">Droidalyzer Status:</string>    
     <string name="myLocationString">My Location</string>      
@@ -59,6 +59,10 @@
     <string name="drinkometer">Drink-O-Meter</string> 
     <string name="notConnectedLabel">Not Connected</string>   
     <string name="FindPLacesButtonString">Nearby Places/Check In</string>  
+    
+    <string name="pref_actions_default">true</string>  
+    
+    
     
     <!-- Layout Screen Text for Taxi Magic Screen --> 
     <string name="cancelButtonVerbage">Cancel</string> 

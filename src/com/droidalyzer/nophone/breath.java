@@ -695,7 +695,7 @@ public class breath extends IOIOActivity implements TextToSpeech.OnInitListener 
      facebook_friends = prefs.getBoolean("pref_facebook_friends", false);  //whether or not to find facebook friends on buzzed or drunk
      debug = prefs.getBoolean("pref_debug", false);  //whether or not to show debug text
     // shake_start = prefs.getBoolean("pref_shake_start", false);  //whether or not to show debug text
-     disable_actions = prefs.getBoolean("pref_actions", false);  //whether or not to show the actions screen
+     disable_actions = prefs.getBoolean("pref_actions", false);  //set this to true by default in prefs
     
      
      tweet_no_drinks = prefs.getString( 

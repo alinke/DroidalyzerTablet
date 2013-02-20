@@ -60,6 +60,8 @@
     <string name="notConnectedLabel">Not Connected</string>  
     <string name="FindPLacesButtonString">Nearby Places</string>   
     
+     <string name="pref_actions_default">true</string>  
+    
    <!-- Layout Screen Text for Social Media Accounts Screen --> 
     <string name="twitter_btn_post">Login Twitter</string> 
     <string name="fb_btn_post">Login Facebook</string> 

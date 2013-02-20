@@ -146,10 +146,10 @@ public class action extends Activity implements OnClickListener {
 	       setPreferences();
 	     //***************************
 		
-	    teleMgr = (TelephonyManager)getSystemService(Context.TELEPHONY_SERVICE);
+	//    teleMgr = (TelephonyManager)getSystemService(Context.TELEPHONY_SERVICE);
 	       
-	    callFriendButton_ = (Button) findViewById(R.id.callFriendButton);
-   	 	callFriendButton_.setOnClickListener(this); 
+	   // callFriendButton_ = (Button) findViewById(R.id.callFriendButton);
+   	 //	callFriendButton_.setOnClickListener(this); 
    	 	
    	 	findFriendButton_ = (Button) findViewById(R.id.findFriendButton);
    	 	findFriendButton_.setOnClickListener(this); 
@@ -157,11 +157,11 @@ public class action extends Activity implements OnClickListener {
    	 	placesButton_ = (Button) findViewById(R.id.placesButton);
    	 	placesButton_.setOnClickListener(this); 
    	 	
-   	 	callTaxiButton_ = (Button) findViewById(R.id.callTaxiButton);
-   	 	callTaxiButton_.setOnClickListener(this); 
+   	 //	callTaxiButton_ = (Button) findViewById(R.id.callTaxiButton);
+   	 //	callTaxiButton_.setOnClickListener(this); 
    	 	
-   	 	TaxiMagicButton_ = (Button) findViewById(R.id.TaxiMagicButton);
-   	 	TaxiMagicButton_.setOnClickListener(this); 
+   	 //	TaxiMagicButton_ = (Button) findViewById(R.id.TaxiMagicButton);
+   	 //	TaxiMagicButton_.setOnClickListener(this); 
    	 	
    	 	whereamiButton_ = (Button) findViewById(R.id.whereamiButton);
 		whereamiButton_.setOnClickListener(this); 
@@ -175,12 +175,12 @@ public class action extends Activity implements OnClickListener {
 		cancelButton_ = (Button) findViewById(R.id.cancelButton);
 		cancelButton_.setOnClickListener(this); 
 		
-		drunkDialButton_ = (Button) findViewById(R.id.drunkDialButton);
-		drunkDialButton_.setOnClickListener(this); 
+	//	drunkDialButton_ = (Button) findViewById(R.id.drunkDialButton);
+//		drunkDialButton_.setOnClickListener(this); 
 		
-		if (resultstring.equals("0") || resultstring.equals("1")) {          //show drunk dial button if tipsy or drunk		
-			drunkDialButton_.setVisibility(View.GONE); 
-		}
+	//	if (resultstring.equals("0") || resultstring.equals("1")) {          //show drunk dial button if tipsy or drunk		
+		//	drunkDialButton_.setVisibility(View.GONE); 
+	//	}
 		
 		if (facebook_post == false) {
 			facebookPostButton_.setVisibility(View.GONE); 
@@ -190,9 +190,9 @@ public class action extends Activity implements OnClickListener {
 			tweetButton_.setVisibility(View.GONE); 
 		}
 		
-		if (hideTaximagic == true) { //taxi magic only available in the US, non-US users may want to hide the button
-			TaxiMagicButton_.setVisibility(View.GONE); 
-		}
+	//	if (hideTaximagic == true) { //taxi magic only available in the US, non-US users may want to hide the button
+	//		TaxiMagicButton_.setVisibility(View.GONE); 
+	//	}
 	    
 	    
 	   // if (call_friend == false) {

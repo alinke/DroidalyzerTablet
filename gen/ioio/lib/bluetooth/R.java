@@ -424,230 +424,231 @@ containing a value of this type.
         public static final int wait3=0x7f06001a;
     }
     public static final class string {
-        public static final int AcceptText=0x7f09005b;
+        public static final int AcceptText=0x7f09005c;
         public static final int FindPLacesButtonString=0x7f090039;
-        public static final int Graph_FQL_msg=0x7f0900b9;
-        public static final int Graph_FQL_title=0x7f0900b8;
-        public static final int OKText=0x7f09005a;
+        public static final int Graph_FQL_msg=0x7f0900ba;
+        public static final int Graph_FQL_title=0x7f0900b9;
+        public static final int OKText=0x7f09005b;
         public static final int TaxiMagicButtonString=0x7f09002e;
-        public static final int access_token=0x7f0900a0;
-        public static final int actions_facebook_fetching=0x7f0900ee;
-        public static final int actions_facebook_loggedout=0x7f0900ec;
-        public static final int actions_facebook_loggingout=0x7f0900ed;
-        public static final int actions_facebook_login=0x7f0900eb;
-        public static final int actions_facebook_login_title=0x7f0900ea;
-        public static final int actions_facebook_loginfailed=0x7f0900f0;
-        public static final int actions_facebook_welcome=0x7f0900f1;
+        public static final int access_token=0x7f0900a1;
+        public static final int actions_facebook_fetching=0x7f0900ef;
+        public static final int actions_facebook_loggedout=0x7f0900ed;
+        public static final int actions_facebook_loggingout=0x7f0900ee;
+        public static final int actions_facebook_login=0x7f0900ec;
+        public static final int actions_facebook_login_title=0x7f0900eb;
+        public static final int actions_facebook_loginfailed=0x7f0900f1;
+        public static final int actions_facebook_welcome=0x7f0900f2;
         public static final int analog_label=0x7f090001;
-        public static final int analyzingText=0x7f09005c;
-        public static final int api_response=0x7f0900ab;
-        public static final int app_action=0x7f090098;
+        public static final int analyzingText=0x7f09005d;
+        public static final int api_response=0x7f0900ac;
+        public static final int app_action=0x7f090099;
         /**  Facebook Strings 
  Facebook Strings 
  Facebook Strings 
  Facebook Strings 
          */
-        public static final int app_desc=0x7f090097;
+        public static final int app_desc=0x7f090098;
         public static final int app_name=0x7f090000;
-        public static final int back_parent=0x7f0900d7;
-        public static final int batteryInfoString=0x7f090100;
-        public static final int batteryInfoStringTitle=0x7f090101;
-        public static final int blewTooSoonString=0x7f090058;
-        public static final int blewTooSoonStringTitle=0x7f090059;
+        public static final int back_parent=0x7f0900d8;
+        public static final int batteryInfoString=0x7f090101;
+        public static final int batteryInfoStringTitle=0x7f090102;
+        public static final int blewTooSoonString=0x7f090059;
+        public static final int blewTooSoonStringTitle=0x7f09005a;
         /** Text Prompts 
 Text Prompts 
 Text Prompts 
 Text Prompts 
          */
-        public static final int blowForText=0x7f090062;
-        public static final int blowPrompt=0x7f09006a;
-        public static final int bluetooth_pair=0x7f090102;
-        public static final int bluetooth_pairSummary=0x7f090103;
+        public static final int blowForText=0x7f090063;
+        public static final int blowPrompt=0x7f09006b;
+        public static final int bluetooth_pair=0x7f090103;
+        public static final int bluetooth_pairSummary=0x7f090104;
         public static final int breathalyzerStatusText=0x7f090005;
-        public static final int btn_clear_credentialsVerbage=0x7f090041;
+        public static final int btn_clear_credentialsVerbage=0x7f090042;
         public static final int callFriendButtonString=0x7f09002b;
         public static final int callTaxiButtonString=0x7f09002d;
-        public static final int can_check_in=0x7f0900e6;
-        public static final int can_post_on_wall=0x7f0900e5;
-        public static final int can_post_on_wall_title=0x7f0900ba;
-        public static final int cancel=0x7f0900c6;
+        public static final int can_check_in=0x7f0900e7;
+        public static final int can_post_on_wall=0x7f0900e6;
+        public static final int can_post_on_wall_title=0x7f0900bb;
+        public static final int cancel=0x7f0900c7;
         public static final int cancelButtonString=0x7f090032;
         /**  Layout Screen Text for Taxi Magic Screen 
  Layout Screen Text for Taxi Magic Screen 
  Layout Screen Text for Taxi Magic Screen 
  Layout Screen Text for Taxi Magic Screen 
          */
-        public static final int cancelButtonVerbage=0x7f09003a;
+        public static final int cancelButtonVerbage=0x7f09003b;
         public static final int character=0x7f090009;
         public static final int character_default_value=0x7f090006;
-        public static final int check_in_at=0x7f0900db;
-        public static final int check_in_title=0x7f0900d5;
-        public static final int checkin=0x7f0900c5;
-        public static final int connections=0x7f0900c4;
+        public static final int check_in_at=0x7f0900dc;
+        public static final int check_in_title=0x7f0900d6;
+        public static final int checkin=0x7f0900c6;
+        public static final int connections=0x7f0900c5;
         public static final int countdown_duration=0x7f090018;
-        public static final int current_location_button=0x7f0900d0;
-        public static final int delete=0x7f09009d;
-        public static final int delete_post=0x7f0900ae;
+        public static final int current_location_button=0x7f0900d1;
+        public static final int delete=0x7f09009e;
+        public static final int delete_post=0x7f0900af;
         public static final int detected_label=0x7f090002;
         public static final int dialogTitleVoice=0x7f090007;
-        public static final int disableActions=0x7f0900fe;
-        public static final int disableActionsSummary=0x7f0900ff;
+        public static final int disableActions=0x7f0900ff;
+        public static final int disableActionsSummary=0x7f090100;
         public static final int drinkometer=0x7f090037;
-        public static final int drunkDialButtonString=0x7f0900fc;
-        public static final int drunkDialingPrompt=0x7f0900fd;
-        public static final int enable_gps=0x7f0900e0;
-        public static final int enable_gps_title=0x7f0900df;
-        public static final int exception=0x7f0900a8;
-        public static final int explorer_message=0x7f0900d2;
-        public static final int extended=0x7f0900c9;
-        public static final int facebookLogoutButtonVerbage=0x7f090042;
+        public static final int drunkDialButtonString=0x7f0900fd;
+        public static final int drunkDialingPrompt=0x7f0900fe;
+        public static final int enable_gps=0x7f0900e1;
+        public static final int enable_gps_title=0x7f0900e0;
+        public static final int exception=0x7f0900a9;
+        public static final int explorer_message=0x7f0900d3;
+        public static final int extended=0x7f0900ca;
+        public static final int facebookLogoutButtonVerbage=0x7f090043;
         public static final int facebookPostButtonString=0x7f090030;
-        public static final int facebook_error=0x7f0900aa;
+        public static final int facebook_error=0x7f0900ab;
         /**  Layout Screen Text for Facebook Post Screen 
  Layout Screen Text for Facebook Post Screen 
  Layout Screen Text for Facebook Post Screen 
  Layout Screen Text for Facebook Post Screen 
          */
-        public static final int fbButtonVerbage=0x7f090046;
-        public static final int fbCompleteString=0x7f09004a;
-        public static final int fb_btn_post=0x7f090040;
-        public static final int fb_label=0x7f090049;
-        public static final int fb_logged_in=0x7f090047;
-        public static final int fb_logged_out=0x7f090048;
-        public static final int fb_logged_out2=0x7f090043;
-        public static final int fetching_current_permissions=0x7f0900d1;
-        public static final int fetching_location=0x7f0900e4;
-        public static final int fields=0x7f0900c3;
-        public static final int fields_and_connections=0x7f0900d8;
+        public static final int fbButtonVerbage=0x7f090047;
+        public static final int fbCompleteString=0x7f09004b;
+        public static final int fb_btn_post=0x7f090041;
+        public static final int fb_label=0x7f09004a;
+        public static final int fb_logged_in=0x7f090048;
+        public static final int fb_logged_out=0x7f090049;
+        public static final int fb_logged_out2=0x7f090044;
+        public static final int fetching_current_permissions=0x7f0900d2;
+        public static final int fetching_location=0x7f0900e5;
+        public static final int fields=0x7f0900c4;
+        public static final int fields_and_connections=0x7f0900d9;
         public static final int findFriendButtonString=0x7f09002c;
-        public static final int finding_friends=0x7f0900e7;
-        public static final int finding_friends_cancel=0x7f0900e8;
-        public static final int fql_button=0x7f0900b5;
-        public static final int fqlquery=0x7f0900de;
-        public static final int friend=0x7f0900c8;
+        public static final int finding_friends=0x7f0900e8;
+        public static final int finding_friends_cancel=0x7f0900e9;
+        public static final int fql_button=0x7f0900b6;
+        public static final int fqlquery=0x7f0900df;
+        public static final int friend=0x7f0900c9;
         public static final int friend_phone=0x7f09001e;
-        public static final int gallery_button=0x7f0900cc;
-        public static final int gallery_remote_msg=0x7f0900cb;
-        public static final int gallery_remote_title=0x7f0900ca;
-        public static final int getTaxiButtonVerbage=0x7f09003d;
-        public static final int get_default_or_new_location=0x7f0900cf;
-        public static final int get_fields=0x7f0900c2;
-        public static final int get_location=0x7f0900ce;
-        public static final int get_permissions=0x7f09009f;
-        public static final int gps_settings=0x7f0900e1;
-        public static final int graph_button=0x7f0900b4;
-        public static final int graph_domain=0x7f0900a1;
-        public static final int hide_photo=0x7f0900b2;
-        public static final int instructionsString=0x7f090056;
-        public static final int instructionsStringTitle=0x7f090057;
-        public static final int justAmomentText=0x7f09005d;
-        public static final int label_output=0x7f0900a3;
+        public static final int gallery_button=0x7f0900cd;
+        public static final int gallery_remote_msg=0x7f0900cc;
+        public static final int gallery_remote_title=0x7f0900cb;
+        public static final int getTaxiButtonVerbage=0x7f09003e;
+        public static final int get_default_or_new_location=0x7f0900d0;
+        public static final int get_fields=0x7f0900c3;
+        public static final int get_location=0x7f0900cf;
+        public static final int get_permissions=0x7f0900a0;
+        public static final int gps_settings=0x7f0900e2;
+        public static final int graph_button=0x7f0900b5;
+        public static final int graph_domain=0x7f0900a2;
+        public static final int hide_photo=0x7f0900b3;
+        public static final int instructionsString=0x7f090057;
+        public static final int instructionsStringTitle=0x7f090058;
+        public static final int justAmomentText=0x7f09005e;
+        public static final int label_output=0x7f0900a4;
         /**  Alcohol Detection Results by Level 
  Alcohol Detection Results by Level 
  Alcohol Detection Results by Level 
  Alcohol Detection Results by Level 
          */
-        public static final int level1Result=0x7f09005e;
-        public static final int level2Result=0x7f09005f;
-        public static final int level3Result=0x7f090060;
-        public static final int level4Result=0x7f090061;
+        public static final int level1Result=0x7f09005f;
+        public static final int level2Result=0x7f090060;
+        public static final int level3Result=0x7f090061;
+        public static final int level4Result=0x7f090062;
         public static final int listSummaryVoice=0x7f090008;
         public static final int max_value=0x7f09001c;
-        public static final int menuCalibrationTitle=0x7f09007e;
-        public static final int menuCountdown=0x7f09007c;
-        public static final int menuCountdownSummary=0x7f09007d;
-        public static final int menuDebug=0x7f090085;
-        public static final int menuDebugSummary=0x7f090086;
-        public static final int menuDisableSleep=0x7f090078;
-        public static final int menuDisableSleepSummary=0x7f090079;
-        public static final int menuDisplayData=0x7f09007f;
-        public static final int menuDisplayDataSummary=0x7f090080;
-        public static final int menuFacebookFriends=0x7f09008e;
-        public static final int menuFacebookFriendsSummary=0x7f09008f;
-        public static final int menuFacebookPosts=0x7f09008c;
-        public static final int menuFacebookPostsSummary=0x7f09008d;
-        public static final int menuFindFriends=0x7f090070;
-        public static final int menuFindFriendsSummary=0x7f090071;
-        public static final int menuFriendPhone=0x7f090072;
-        public static final int menuFriendPhoneSummary=0x7f090073;
-        public static final int menuHighRange=0x7f090083;
-        public static final int menuHighRangeSummary=0x7f090084;
-        public static final int menuIncludeLocation=0x7f090090;
-        public static final int menuIncludeLocationSummary=0x7f090091;
-        public static final int menuLevel1Post=0x7f090092;
-        public static final int menuLevel2Post=0x7f090093;
-        public static final int menuLevel3Post=0x7f090094;
-        public static final int menuLevel4Post=0x7f090095;
-        public static final int menuMinimumBaseline=0x7f090081;
-        public static final int menuMinimumBaselineSummary=0x7f090082;
-        public static final int menuShake=0x7f090074;
-        public static final int menuShakeSummary=0x7f090075;
-        public static final int menuSimulationMode=0x7f09007a;
-        public static final int menuSimulationModeSummary=0x7f09007b;
-        public static final int menuSocialMediaTitle=0x7f090088;
-        public static final int menuSocialMediaTitleSummary=0x7f090089;
+        public static final int menuCalibrationTitle=0x7f09007f;
+        public static final int menuCountdown=0x7f09007d;
+        public static final int menuCountdownSummary=0x7f09007e;
+        public static final int menuDebug=0x7f090086;
+        public static final int menuDebugSummary=0x7f090087;
+        public static final int menuDisableSleep=0x7f090079;
+        public static final int menuDisableSleepSummary=0x7f09007a;
+        public static final int menuDisplayData=0x7f090080;
+        public static final int menuDisplayDataSummary=0x7f090081;
+        public static final int menuFacebookFriends=0x7f09008f;
+        public static final int menuFacebookFriendsSummary=0x7f090090;
+        public static final int menuFacebookPosts=0x7f09008d;
+        public static final int menuFacebookPostsSummary=0x7f09008e;
+        public static final int menuFindFriends=0x7f090071;
+        public static final int menuFindFriendsSummary=0x7f090072;
+        public static final int menuFriendPhone=0x7f090073;
+        public static final int menuFriendPhoneSummary=0x7f090074;
+        public static final int menuHighRange=0x7f090084;
+        public static final int menuHighRangeSummary=0x7f090085;
+        public static final int menuIncludeLocation=0x7f090091;
+        public static final int menuIncludeLocationSummary=0x7f090092;
+        public static final int menuLevel1Post=0x7f090093;
+        public static final int menuLevel2Post=0x7f090094;
+        public static final int menuLevel3Post=0x7f090095;
+        public static final int menuLevel4Post=0x7f090096;
+        public static final int menuMinimumBaseline=0x7f090082;
+        public static final int menuMinimumBaselineSummary=0x7f090083;
+        public static final int menuShake=0x7f090075;
+        public static final int menuShakeSummary=0x7f090076;
+        public static final int menuSimulationMode=0x7f09007b;
+        public static final int menuSimulationModeSummary=0x7f09007c;
+        public static final int menuSocialMediaTitle=0x7f090089;
+        public static final int menuSocialMediaTitleSummary=0x7f09008a;
         /**  Menu Messages 
  Menu Messages 
  Menu Messages 
  Menu Messages 
          */
-        public static final int menuTTSText=0x7f09006b;
-        public static final int menuTaxiMagic=0x7f09006c;
-        public static final int menuTaxiMagicSummary=0x7f09006d;
-        public static final int menuTaxiNumber=0x7f09006e;
-        public static final int menuTaxiNumberSummary=0x7f09006f;
-        public static final int menuTexttoSpeechTitle=0x7f090087;
-        public static final int menuTweetResults=0x7f09008a;
-        public static final int menuTweetResultsSummary=0x7f09008b;
-        public static final int menuUserAcceptance=0x7f090076;
-        public static final int menuUserAcceptanceSummary=0x7f090077;
-        public static final int menu_about_summary=0x7f0900f5;
-        public static final int menu_about_title=0x7f0900f4;
+        public static final int menuTTSText=0x7f09006c;
+        public static final int menuTaxiMagic=0x7f09006d;
+        public static final int menuTaxiMagicSummary=0x7f09006e;
+        public static final int menuTaxiNumber=0x7f09006f;
+        public static final int menuTaxiNumberSummary=0x7f090070;
+        public static final int menuTexttoSpeechTitle=0x7f090088;
+        public static final int menuTweetResults=0x7f09008b;
+        public static final int menuTweetResultsSummary=0x7f09008c;
+        public static final int menuUserAcceptance=0x7f090077;
+        public static final int menuUserAcceptanceSummary=0x7f090078;
+        public static final int menu_about_summary=0x7f0900f6;
+        public static final int menu_about_title=0x7f0900f5;
         public static final int menu_instructions_title=0x7f09000d;
         public static final int menu_prefs_title=0x7f09000b;
         public static final int menu_socialmedia_title=0x7f09000e;
-        public static final int menu_twitter_title=0x7f090104;
-        public static final int message_posted_on_wall=0x7f0900e9;
+        public static final int menu_twitter_title=0x7f090105;
+        public static final int message_posted_on_wall=0x7f0900ea;
         public static final int min_baseline=0x7f09001a;
         public static final int myLocationString=0x7f090003;
-        public static final int nearby_places=0x7f0900d3;
-        public static final int no=0x7f0900bf;
-        public static final int no_login=0x7f09009e;
+        public static final int nearby_places=0x7f0900d4;
+        public static final int no=0x7f0900c0;
+        public static final int no_login=0x7f09009f;
         public static final int notConnectedLabel=0x7f090038;
-        public static final int notFoundString=0x7f090054;
-        public static final int notFoundStringTitle=0x7f090055;
-        public static final int ok=0x7f0900bb;
-        public static final int permission_detail=0x7f0900da;
-        public static final int permission_source_tag=0x7f0900b7;
-        public static final int permissions=0x7f0900d6;
-        public static final int permissions_request=0x7f0900d9;
-        public static final int photo_tip=0x7f0900dd;
-        public static final int placesScreenBottomTitle=0x7f0900e3;
-        public static final int placesScreenTitle=0x7f0900e2;
-        public static final int places_checkedin=0x7f0900ef;
-        public static final int pleaseWaitText=0x7f090063;
-        public static final int please_wait=0x7f0900b0;
-        public static final int post=0x7f09009c;
-        public static final int postTextSummary=0x7f090096;
-        public static final int post_on_wall=0x7f0900bd;
-        public static final int post_on_wall_title=0x7f0900bc;
-        public static final int post_tip=0x7f0900dc;
+        public static final int notFoundString=0x7f090055;
+        public static final int notFoundStringTitle=0x7f090056;
+        public static final int ok=0x7f0900bc;
+        public static final int permission_detail=0x7f0900db;
+        public static final int permission_source_tag=0x7f0900b8;
+        public static final int permissions=0x7f0900d7;
+        public static final int permissions_request=0x7f0900da;
+        public static final int photo_tip=0x7f0900de;
+        public static final int placesScreenBottomTitle=0x7f0900e4;
+        public static final int placesScreenTitle=0x7f0900e3;
+        public static final int places_checkedin=0x7f0900f0;
+        public static final int pleaseWaitText=0x7f090064;
+        public static final int please_wait=0x7f0900b1;
+        public static final int post=0x7f09009d;
+        public static final int postTextSummary=0x7f090097;
+        public static final int post_on_wall=0x7f0900be;
+        public static final int post_on_wall_title=0x7f0900bd;
+        public static final int post_tip=0x7f0900dd;
         public static final int prefSummary=0x7f09000c;
         public static final int prefTitle=0x7f090004;
+        public static final int pref_actions_default=0x7f09003a;
         public static final int pref_countdown=0x7f090017;
         public static final int pref_debug=0x7f090033;
-        public static final int pref_disablesleep_default=0x7f0900f8;
+        public static final int pref_disablesleep_default=0x7f0900f9;
         public static final int pref_facebook_friends=0x7f09002a;
         public static final int pref_facebook_post=0x7f090029;
-        public static final int pref_facebook_post_default=0x7f0900f6;
+        public static final int pref_facebook_post_default=0x7f0900f7;
         public static final int pref_friend_phone=0x7f09001d;
-        public static final int pref_hideTaximagicSummary=0x7f0900f3;
-        public static final int pref_hideTaximagicTitle=0x7f0900f2;
+        public static final int pref_hideTaximagicSummary=0x7f0900f4;
+        public static final int pref_hideTaximagicTitle=0x7f0900f3;
         public static final int pref_max_value=0x7f09001b;
         public static final int pref_min_baseline=0x7f090019;
         public static final int pref_shake_start=0x7f090036;
-        public static final int pref_show_user_acceptance_default=0x7f0900fa;
-        public static final int pref_simulation_default=0x7f0900f9;
+        public static final int pref_show_user_acceptance_default=0x7f0900fb;
+        public static final int pref_simulation_default=0x7f0900fa;
         public static final int pref_taxi_phone=0x7f09001f;
         public static final int pref_taxi_sms=0x7f090034;
         public static final int pref_tts_buzzed=0x7f090013;
@@ -658,36 +659,36 @@ Text Prompts
         public static final int pref_tweet_drunk=0x7f090027;
         public static final int pref_tweet_few_drinks=0x7f090023;
         public static final int pref_tweet_no_drinks=0x7f090021;
-        public static final int pref_twitter_post_default=0x7f0900f7;
-        public static final int remote_button=0x7f0900cd;
-        public static final int request=0x7f09009a;
-        public static final int request_message=0x7f090099;
-        public static final int reset=0x7f0900c1;
-        public static final int save=0x7f0900c0;
+        public static final int pref_twitter_post_default=0x7f0900f8;
+        public static final int remote_button=0x7f0900ce;
+        public static final int request=0x7f09009b;
+        public static final int request_message=0x7f09009a;
+        public static final int reset=0x7f0900c2;
+        public static final int save=0x7f0900c1;
         public static final int selected_character=0x7f09000a;
-        public static final int setupInstructionsString=0x7f090052;
-        public static final int setupInstructionsStringTitle=0x7f090053;
-        public static final int show_metadata=0x7f0900a4;
-        public static final int show_picture=0x7f0900a5;
-        public static final int socialMediaLabel=0x7f090045;
-        public static final int source_code=0x7f0900af;
-        public static final int source_tag=0x7f0900b6;
-        public static final int statusInprogressText=0x7f090066;
-        public static final int statusNotconnectedText=0x7f090069;
-        public static final int statusReadyText=0x7f090068;
-        public static final int statusResettingText=0x7f090065;
-        public static final int statusSimulationModeText=0x7f090064;
-        public static final int submit=0x7f0900a2;
-        public static final int tag_photo=0x7f0900b3;
-        public static final int tapTobeginText=0x7f090067;
-        public static final int target_url=0x7f0900a7;
-        public static final int taxiMagicBottomVerbage=0x7f09003b;
-        public static final int taxiMagicImageDescription=0x7f09003e;
-        public static final int taxiScreenLabelVerbage=0x7f09003c;
+        public static final int setupInstructionsString=0x7f090053;
+        public static final int setupInstructionsStringTitle=0x7f090054;
+        public static final int show_metadata=0x7f0900a5;
+        public static final int show_picture=0x7f0900a6;
+        public static final int socialMediaLabel=0x7f090046;
+        public static final int source_code=0x7f0900b0;
+        public static final int source_tag=0x7f0900b7;
+        public static final int statusInprogressText=0x7f090067;
+        public static final int statusNotconnectedText=0x7f09006a;
+        public static final int statusReadyText=0x7f090069;
+        public static final int statusResettingText=0x7f090066;
+        public static final int statusSimulationModeText=0x7f090065;
+        public static final int submit=0x7f0900a3;
+        public static final int tag_photo=0x7f0900b4;
+        public static final int tapTobeginText=0x7f090068;
+        public static final int target_url=0x7f0900a8;
+        public static final int taxiMagicBottomVerbage=0x7f09003c;
+        public static final int taxiMagicImageDescription=0x7f09003f;
+        public static final int taxiScreenLabelVerbage=0x7f09003d;
         public static final int taxi_phone=0x7f090020;
         public static final int taxi_sms_default=0x7f090035;
-        public static final int times_square_button=0x7f0900d4;
-        public static final int tip_label=0x7f0900a9;
+        public static final int times_square_button=0x7f0900d5;
+        public static final int tip_label=0x7f0900aa;
         public static final int tts_buzzed=0x7f090014;
         public static final int tts_drunk=0x7f090016;
         public static final int tts_few_drinks=0x7f090012;
@@ -702,34 +703,34 @@ Text Prompts
  Layout Screen Text for Tweet Post Screen 
  Layout Screen Text for Tweet Post Screen 
          */
-        public static final int twitterButtonVerbage=0x7f09004b;
-        public static final int twitterCompleteString=0x7f09004f;
+        public static final int twitterButtonVerbage=0x7f09004c;
+        public static final int twitterCompleteString=0x7f090050;
         /**  Layout Screen Text for Social Media Accounts Screen 
  Layout Screen Text for Social Media Accounts Screen 
  Layout Screen Text for Social Media Accounts Screen 
  Layout Screen Text for Social Media Accounts Screen 
          */
-        public static final int twitter_btn_post=0x7f09003f;
-        public static final int twitter_label=0x7f09004e;
-        public static final int twitter_logged_in=0x7f09004c;
-        public static final int twitter_logged_out=0x7f09004d;
-        public static final int twitter_logged_out2=0x7f090044;
-        public static final int upload=0x7f09009b;
-        public static final int user=0x7f0900c7;
+        public static final int twitter_btn_post=0x7f090040;
+        public static final int twitter_label=0x7f09004f;
+        public static final int twitter_logged_in=0x7f09004d;
+        public static final int twitter_logged_out=0x7f09004e;
+        public static final int twitter_logged_out2=0x7f090045;
+        public static final int upload=0x7f09009c;
+        public static final int user=0x7f0900c8;
         /**  Alert Messages 
  Alert Messages 
  Alert Messages 
  Alert Messages 
          */
-        public static final int userAcceptanceString=0x7f090050;
-        public static final int userAcceptanceStringTitle=0x7f090051;
-        public static final int versionString=0x7f0900fb;
-        public static final int view_photo=0x7f0900b1;
-        public static final int view_post=0x7f0900ad;
-        public static final int view_source=0x7f0900ac;
-        public static final int view_url=0x7f0900a6;
+        public static final int userAcceptanceString=0x7f090051;
+        public static final int userAcceptanceStringTitle=0x7f090052;
+        public static final int versionString=0x7f0900fc;
+        public static final int view_photo=0x7f0900b2;
+        public static final int view_post=0x7f0900ae;
+        public static final int view_source=0x7f0900ad;
+        public static final int view_url=0x7f0900a7;
         public static final int whereamiButtonString=0x7f09002f;
-        public static final int yes=0x7f0900be;
+        public static final int yes=0x7f0900bf;
     }
     public static final class style {
         public static final int Button=0x7f0a0000;

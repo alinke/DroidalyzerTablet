@@ -60,6 +60,8 @@
     <string name="notConnectedLabel">no conectado</string> 
     <string name="FindPLacesButtonString">Nearby Places</string>  
     
+     <string name="pref_actions_default">true</string>  
+    
     <!-- Layout Screen Text for Taxi Magic Screen --> 
     <string name="cancelButtonVerbage">cancelar</string> 
     <string name="taxiMagicBottomVerbage">Taxi Magic service available in US major cities only</string> 

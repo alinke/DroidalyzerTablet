@@ -73,7 +73,8 @@
     <CheckBoxPreference
     android:title="@string/disableActions"
     android:key="pref_actions"
-    android:summary="@string/disableActionsSummary"/>
+    android:summary="@string/disableActionsSummary"
+    android:defaultValue="@string/pref_actions_default"/>
    
     <CheckBoxPreference
     android:title="@string/menuUserAcceptance"
