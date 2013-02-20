@@ -28,7 +28,7 @@
 package com.freddymartens.android.widgets;
 
 
-import talkingbreathalyzer.main.source.R;
+import com.droidalyzer.nophone.R;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

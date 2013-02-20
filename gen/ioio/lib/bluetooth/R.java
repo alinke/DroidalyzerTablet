@@ -461,6 +461,8 @@ Text Prompts
          */
         public static final int blowForText=0x7f090062;
         public static final int blowPrompt=0x7f09006a;
+        public static final int bluetooth_pair=0x7f090102;
+        public static final int bluetooth_pairSummary=0x7f090103;
         public static final int breathalyzerStatusText=0x7f090005;
         public static final int btn_clear_credentialsVerbage=0x7f090041;
         public static final int callFriendButtonString=0x7f09002b;
@@ -604,7 +606,7 @@ Text Prompts
         public static final int menu_instructions_title=0x7f09000d;
         public static final int menu_prefs_title=0x7f09000b;
         public static final int menu_socialmedia_title=0x7f09000e;
-        public static final int menu_twitter_title=0x7f090102;
+        public static final int menu_twitter_title=0x7f090104;
         public static final int message_posted_on_wall=0x7f0900e9;
         public static final int min_baseline=0x7f09001a;
         public static final int myLocationString=0x7f090003;
@@ -735,7 +737,8 @@ Text Prompts
         public static final int ListView=0x7f0a0001;
     }
     public static final class xml {
-        public static final int preferences=0x7f050000;
+        public static final int accessory_filter=0x7f050000;
+        public static final int preferences=0x7f050001;
     }
     public static final class styleable {
         /** Attributes that can be used with a Dial.
@@ -744,28 +747,28 @@ Text Prompts
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Dial_incrementPerLargeNotch talkingbreathalyzer.main.source:incrementPerLargeNotch}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_incrementPerSmallNotch talkingbreathalyzer.main.source:incrementPerSmallNotch}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_lowerTitle talkingbreathalyzer.main.source:lowerTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeErrorColor talkingbreathalyzer.main.source:rangeErrorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeErrorMaxValue talkingbreathalyzer.main.source:rangeErrorMaxValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeErrorMinValue talkingbreathalyzer.main.source:rangeErrorMinValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeOkColor talkingbreathalyzer.main.source:rangeOkColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeOkMaxValue talkingbreathalyzer.main.source:rangeOkMaxValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeOkMinValue talkingbreathalyzer.main.source:rangeOkMinValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeWarningColor talkingbreathalyzer.main.source:rangeWarningColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeWarningMaxValue talkingbreathalyzer.main.source:rangeWarningMaxValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_rangeWarningMinValue talkingbreathalyzer.main.source:rangeWarningMinValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_scaleCenterValue talkingbreathalyzer.main.source:scaleCenterValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_scaleColor talkingbreathalyzer.main.source:scaleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_scaleMaxValue talkingbreathalyzer.main.source:scaleMaxValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_scaleMinValue talkingbreathalyzer.main.source:scaleMinValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_showGauge talkingbreathalyzer.main.source:showGauge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_showHand talkingbreathalyzer.main.source:showHand}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_showRange talkingbreathalyzer.main.source:showRange}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_totalNotches talkingbreathalyzer.main.source:totalNotches}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_unitTitle talkingbreathalyzer.main.source:unitTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dial_upperTitle talkingbreathalyzer.main.source:upperTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_incrementPerLargeNotch com.droidalyzer.nophone:incrementPerLargeNotch}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_incrementPerSmallNotch com.droidalyzer.nophone:incrementPerSmallNotch}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_lowerTitle com.droidalyzer.nophone:lowerTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeErrorColor com.droidalyzer.nophone:rangeErrorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeErrorMaxValue com.droidalyzer.nophone:rangeErrorMaxValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeErrorMinValue com.droidalyzer.nophone:rangeErrorMinValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeOkColor com.droidalyzer.nophone:rangeOkColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeOkMaxValue com.droidalyzer.nophone:rangeOkMaxValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeOkMinValue com.droidalyzer.nophone:rangeOkMinValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeWarningColor com.droidalyzer.nophone:rangeWarningColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeWarningMaxValue com.droidalyzer.nophone:rangeWarningMaxValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_rangeWarningMinValue com.droidalyzer.nophone:rangeWarningMinValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_scaleCenterValue com.droidalyzer.nophone:scaleCenterValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_scaleColor com.droidalyzer.nophone:scaleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_scaleMaxValue com.droidalyzer.nophone:scaleMaxValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_scaleMinValue com.droidalyzer.nophone:scaleMinValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_showGauge com.droidalyzer.nophone:showGauge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_showHand com.droidalyzer.nophone:showHand}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_showRange com.droidalyzer.nophone:showRange}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_totalNotches com.droidalyzer.nophone:totalNotches}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_unitTitle com.droidalyzer.nophone:unitTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dial_upperTitle com.droidalyzer.nophone:upperTitle}</code></td><td></td></tr>
            </table>
            @see #Dial_incrementPerLargeNotch
            @see #Dial_incrementPerSmallNotch
@@ -799,7 +802,7 @@ Text Prompts
             0x7f010014, 0x7f010015
         };
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#incrementPerLargeNotch}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#incrementPerLargeNotch}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -813,7 +816,7 @@ containing a value of this type.
         */
         public static final int Dial_incrementPerLargeNotch = 1;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#incrementPerSmallNotch}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#incrementPerSmallNotch}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -827,7 +830,7 @@ containing a value of this type.
         */
         public static final int Dial_incrementPerSmallNotch = 2;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#lowerTitle}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#lowerTitle}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -841,7 +844,7 @@ containing a value of this type.
         */
         public static final int Dial_lowerTitle = 17;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeErrorColor}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeErrorColor}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -855,7 +858,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeErrorColor = 13;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeErrorMaxValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeErrorMaxValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -869,7 +872,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeErrorMaxValue = 15;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeErrorMinValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeErrorMinValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -883,7 +886,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeErrorMinValue = 14;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeOkColor}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeOkColor}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -897,7 +900,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeOkColor = 7;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeOkMaxValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeOkMaxValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -911,7 +914,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeOkMaxValue = 9;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeOkMinValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeOkMinValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -925,7 +928,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeOkMinValue = 8;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeWarningColor}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeWarningColor}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -939,7 +942,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeWarningColor = 10;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeWarningMaxValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeWarningMaxValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -953,7 +956,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeWarningMaxValue = 12;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#rangeWarningMinValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#rangeWarningMinValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -967,7 +970,7 @@ containing a value of this type.
         */
         public static final int Dial_rangeWarningMinValue = 11;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#scaleCenterValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#scaleCenterValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -981,7 +984,7 @@ containing a value of this type.
         */
         public static final int Dial_scaleCenterValue = 4;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#scaleColor}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#scaleColor}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -995,7 +998,7 @@ containing a value of this type.
         */
         public static final int Dial_scaleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#scaleMaxValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#scaleMaxValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -1009,7 +1012,7 @@ containing a value of this type.
         */
         public static final int Dial_scaleMaxValue = 6;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#scaleMinValue}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#scaleMinValue}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -1023,7 +1026,7 @@ containing a value of this type.
         */
         public static final int Dial_scaleMinValue = 5;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#showGauge}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#showGauge}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -1037,7 +1040,7 @@ containing a value of this type.
         */
         public static final int Dial_showGauge = 21;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#showHand}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#showHand}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -1051,7 +1054,7 @@ containing a value of this type.
         */
         public static final int Dial_showHand = 20;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#showRange}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#showRange}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -1065,7 +1068,7 @@ containing a value of this type.
         */
         public static final int Dial_showRange = 19;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#totalNotches}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#totalNotches}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -1079,7 +1082,7 @@ containing a value of this type.
         */
         public static final int Dial_totalNotches = 0;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#unitTitle}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#unitTitle}
           attribute's value can be found in the {@link #Dial} array.
 
 
@@ -1093,7 +1096,7 @@ containing a value of this type.
         */
         public static final int Dial_unitTitle = 18;
         /**
-          <p>This symbol is the offset where the {@link talkingbreathalyzer.main.source.R.attr#upperTitle}
+          <p>This symbol is the offset where the {@link com.droidalyzer.nophone.R.attr#upperTitle}
           attribute's value can be found in the {@link #Dial} array.
 
 
